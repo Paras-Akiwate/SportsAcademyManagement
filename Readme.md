@@ -149,7 +149,7 @@ Set your:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author/-
 
 **Paras**
 Developer – Sports Management System
