@@ -34,7 +34,7 @@ public class Coach {
     public int getId() {
         return CoachId;
     }
-
+//setId
     public void setId(int id) {
         this.CoachId = id;
     }
