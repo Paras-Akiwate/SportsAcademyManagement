@@ -14,7 +14,7 @@ public class Player {
     // Default
     public Player() {}
 
-    // INSERT
+    // INSERT query
     public Player(String name, int deptId, int teamId) {
         this.name = name;
         this.deptId = deptId;
